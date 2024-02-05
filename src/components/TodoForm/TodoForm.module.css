@@ -1,0 +1,29 @@
+.form__wrap {
+  position: relative;
+  bottom: 30px;
+}
+
+.form__input {
+  height: 60px;
+  width: 700px;
+  font-size: 20px;
+  border-radius: 6px;
+  color: #7f7f7f;
+  background-color: #262626;
+  padding: 16px;
+  -moz-box-shadow: 0 0 3px #000;
+  -webkit-box-shadow: 0 0 3px #000;
+  box-shadow: 0 0 8px #000;
+}
+
+.form__btn {
+  height: 60px;
+  width: 70px;
+  margin-left: 30px;
+  border-radius: 8px;
+  background-color: #1e6f9f;
+  -moz-box-shadow: 0 0 3px #000;
+  -webkit-box-shadow: 0 0 3px #000;
+  box-shadow: 0 0 8px #000;
+  border: 1px solid #000;
+}
